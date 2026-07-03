@@ -35,11 +35,17 @@ The Repo Manifest lists the important files and folders in Agent Design Aestheti
 
 | File | Purpose |
 | --- | --- |
+| agents/design-aesthetics/persona.md | Agent identity and voice |
+| agents/design-aesthetics/system-prompt/firing-order.json | Machine-readable firing order |
+| agents/design-aesthetics/templates/table-output-template.md | Standard table output shape |
+| agents/design-aesthetics/templates/design-audit-template.md | Audit output shape |
 | docs/design-pattern-catalog.md | Main catalog of visual patterns |
 | docs/ai-agent-application-guide.md | How other AI agents should apply the patterns |
 | docs/component-source-map.md | Component and design-system source map |
 | docs/prompt-recipe-pattern.md | Reusable prompt recipe structure |
 | docs/validation-pattern.md | Design validation rules |
+| docs/design-aesthetic-scoring-rubric.md | Design readiness scoring rubric |
+| docs/gap-analysis.md | Filled and remaining gaps |
 
 ## House Rule
 
