@@ -24,6 +24,7 @@ The Repo Manifest lists the important files and folders in Agent Design Aestheti
 | agents/design-aesthetics/system-prompt/ | Prompt stack and firing order |
 | agents/design-aesthetics/templates/ | Agent-specific reusable templates |
 | docs/ | Design guides, catalogs, and build rules |
+| docs/examples/ | Implementation examples by stack and surface |
 | features/ | Feature ledger and tickets |
 | features/tickets/ | Small buildable feature files |
 | obsidian/ | Wiki-style notes |
@@ -46,6 +47,15 @@ The Repo Manifest lists the important files and folders in Agent Design Aestheti
 | docs/validation-pattern.md | Design validation rules |
 | docs/design-aesthetic-scoring-rubric.md | Design readiness scoring rubric |
 | docs/gap-analysis.md | Filled and remaining gaps |
+| docs/visual-media-analysis-checklist.md | Screenshot and video analysis checklist |
+| docs/pattern-blending-guide.md | Safe pattern combination guide |
+| docs/source-review-workflow.md | Source freshness review workflow |
+| docs/accessibility-examples.md | Accessibility prompt examples |
+| docs/examples/README.md | Implementation example index |
+| docs/examples/react-tailwind-bento-dashboard.md | React + Tailwind dashboard example |
+| docs/examples/wordpress-motif-design-layer.md | WordPress / Motif design layer example |
+| docs/examples/mobile-onboarding-claymorphism.md | Mobile onboarding example |
+| docs/examples/material-console-dashboard.md | Material-style console example |
 
 ## House Rule
 
