@@ -1,0 +1,31 @@
+{
+  "agent": "design-aesthetics",
+  "version": "v0.1.0-origin",
+  "firing_order": [
+    "capture_user_request",
+    "identify_product_intent",
+    "identify_interface_surface",
+    "identify_target_user_and_emotional_goal",
+    "select_visual_pattern_family",
+    "select_component_sources",
+    "create_ai_agent_application_prompt",
+    "add_accessibility_and_usability_rules",
+    "run_validation_checklist",
+    "record_reusable_design_memory"
+  ],
+  "default_table_shape": [
+    "Item",
+    "What It Is",
+    "Why It Matters",
+    "Where To Find It",
+    "How AI Agents Apply It"
+  ],
+  "validation_required": true,
+  "freshness_check_required_for": [
+    "package_install_commands",
+    "current_library_status",
+    "licenses",
+    "framework_compatibility",
+    "design_system_versions"
+  ]
+}
